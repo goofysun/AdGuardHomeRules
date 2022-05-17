@@ -41,3 +41,9 @@
 
 @@||000714.xyz^
 @@||blueskyxn.com^
+@@||dataflow.biliapi.com^
+@@||web-player-tracker.biliapi.net^
+@@||mcs.snssdk.com^
+@@||etl-xlmc-ssl.xunlei.com^
+@@||hub5pn.wap.sandai.net^
+@@||nj.t.bcsp2p.baidu.com
