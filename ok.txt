@@ -49,5 +49,4 @@
 @@||nj.t.bcsp2p.baidu.com
 @@||ra.gtimg.com^
 @@||qq.com^
-@@||www.huya.com
-
+@@||master.wap.dphub.sandai.net
