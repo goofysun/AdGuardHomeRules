@@ -41,8 +41,6 @@
 
 2001:250:4000:4303::1000 hudbt.hust.edu.cn
 
-139.162.79.93 www.joyhd.net
-
 104.18.160.153 greatposterwall.com
 104.18.160.153 tracker.greatposterwall.com
 
